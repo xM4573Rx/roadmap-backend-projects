@@ -2,3 +2,4 @@
 This is a list of projects solutions for roadmap backend projects.
 
 npm install
+npm link
